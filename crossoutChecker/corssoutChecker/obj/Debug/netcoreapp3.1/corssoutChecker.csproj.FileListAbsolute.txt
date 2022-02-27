@@ -1,0 +1,30 @@
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab01\corssoutChecker\corssoutChecker\bin\Debug\netcoreapp3.1\corssoutChecker.exe
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab01\corssoutChecker\corssoutChecker\bin\Debug\netcoreapp3.1\corssoutChecker.deps.json
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab01\corssoutChecker\corssoutChecker\bin\Debug\netcoreapp3.1\corssoutChecker.runtimeconfig.json
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab01\corssoutChecker\corssoutChecker\bin\Debug\netcoreapp3.1\corssoutChecker.runtimeconfig.dev.json
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab01\corssoutChecker\corssoutChecker\bin\Debug\netcoreapp3.1\corssoutChecker.dll
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab01\corssoutChecker\corssoutChecker\bin\Debug\netcoreapp3.1\corssoutChecker.pdb
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab01\corssoutChecker\corssoutChecker\obj\Debug\netcoreapp3.1\corssoutChecker.csproj.AssemblyReference.cache
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab01\corssoutChecker\corssoutChecker\obj\Debug\netcoreapp3.1\corssoutChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab01\corssoutChecker\corssoutChecker\obj\Debug\netcoreapp3.1\corssoutChecker.AssemblyInfoInputs.cache
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab01\corssoutChecker\corssoutChecker\obj\Debug\netcoreapp3.1\corssoutChecker.AssemblyInfo.cs
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab01\corssoutChecker\corssoutChecker\obj\Debug\netcoreapp3.1\corssoutChecker.csproj.CoreCompileInputs.cache
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab01\corssoutChecker\corssoutChecker\obj\Debug\netcoreapp3.1\corssoutChecker.dll
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab01\corssoutChecker\corssoutChecker\obj\Debug\netcoreapp3.1\corssoutChecker.pdb
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab01\corssoutChecker\corssoutChecker\obj\Debug\netcoreapp3.1\corssoutChecker.genruntimeconfig.cache
+D:\JAN_CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab01\corssoutChecker\corssoutChecker\obj\Debug\netcoreapp3.1\corssoutChecker.csproj.AssemblyReference.cache
+D:\JAN_CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab01\corssoutChecker\corssoutChecker\obj\Debug\netcoreapp3.1\corssoutChecker.GeneratedMSBuildEditorConfig.editorconfig
+D:\JAN_CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab01\corssoutChecker\corssoutChecker\obj\Debug\netcoreapp3.1\corssoutChecker.AssemblyInfoInputs.cache
+D:\JAN_CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab01\corssoutChecker\corssoutChecker\obj\Debug\netcoreapp3.1\corssoutChecker.AssemblyInfo.cs
+D:\JAN_CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab01\corssoutChecker\corssoutChecker\obj\Debug\netcoreapp3.1\corssoutChecker.csproj.CoreCompileInputs.cache
+D:\JAN_CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab01\corssoutChecker\corssoutChecker\obj\Debug\netcoreapp3.1\corssoutChecker.dll
+D:\JAN_CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab01\corssoutChecker\corssoutChecker\obj\Debug\netcoreapp3.1\corssoutChecker.pdb
+D:\JAN_CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab01\corssoutChecker\corssoutChecker\bin\Debug\netcoreapp3.1\corssoutChecker.exe
+D:\JAN_CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab01\corssoutChecker\corssoutChecker\bin\Debug\netcoreapp3.1\corssoutChecker.deps.json
+D:\JAN_CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab01\corssoutChecker\corssoutChecker\bin\Debug\netcoreapp3.1\corssoutChecker.runtimeconfig.json
+D:\JAN_CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab01\corssoutChecker\corssoutChecker\bin\Debug\netcoreapp3.1\corssoutChecker.runtimeconfig.dev.json
+D:\JAN_CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab01\corssoutChecker\corssoutChecker\bin\Debug\netcoreapp3.1\corssoutChecker.dll
+D:\JAN_CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab01\corssoutChecker\corssoutChecker\bin\Debug\netcoreapp3.1\corssoutChecker.pdb
+D:\JAN_CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab01\corssoutChecker\corssoutChecker\bin\Debug\netcoreapp3.1\TestSet.dll
+D:\JAN_CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab01\corssoutChecker\corssoutChecker\obj\Debug\netcoreapp3.1\corssoutChecker.csproj.CopyComplete
+D:\JAN_CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab01\corssoutChecker\corssoutChecker\obj\Debug\netcoreapp3.1\corssoutChecker.genruntimeconfig.cache
