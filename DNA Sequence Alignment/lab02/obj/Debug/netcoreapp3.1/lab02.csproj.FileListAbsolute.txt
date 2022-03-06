@@ -1,0 +1,48 @@
+h:\Windows7\Desktop\lab02\lab02\obj\Debug\netcoreapp3.1\lab02.csproj.AssemblyReference.cache
+h:\Windows7\Desktop\lab02\lab02\obj\Debug\netcoreapp3.1\lab02.GeneratedMSBuildEditorConfig.editorconfig
+h:\Windows7\Desktop\lab02\lab02\obj\Debug\netcoreapp3.1\lab02.AssemblyInfoInputs.cache
+h:\Windows7\Desktop\lab02\lab02\obj\Debug\netcoreapp3.1\lab02.AssemblyInfo.cs
+h:\Windows7\Desktop\lab02\lab02\obj\Debug\netcoreapp3.1\lab02.csproj.CoreCompileInputs.cache
+h:\Windows7\Desktop\lab02\lab02\bin\Debug\netcoreapp3.1\lab02.exe
+h:\Windows7\Desktop\lab02\lab02\bin\Debug\netcoreapp3.1\lab02.deps.json
+h:\Windows7\Desktop\lab02\lab02\bin\Debug\netcoreapp3.1\lab02.runtimeconfig.json
+h:\Windows7\Desktop\lab02\lab02\bin\Debug\netcoreapp3.1\lab02.runtimeconfig.dev.json
+h:\Windows7\Desktop\lab02\lab02\bin\Debug\netcoreapp3.1\lab02.dll
+h:\Windows7\Desktop\lab02\lab02\bin\Debug\netcoreapp3.1\lab02.pdb
+h:\Windows7\Desktop\lab02\lab02\bin\Debug\netcoreapp3.1\TestSet.dll
+h:\Windows7\Desktop\lab02\lab02\obj\Debug\netcoreapp3.1\lab02.csproj.CopyComplete
+h:\Windows7\Desktop\lab02\lab02\obj\Debug\netcoreapp3.1\lab02.dll
+h:\Windows7\Desktop\lab02\lab02\obj\Debug\netcoreapp3.1\lab02.pdb
+h:\Windows7\Desktop\lab02\lab02\obj\Debug\netcoreapp3.1\lab02.genruntimeconfig.cache
+C:\Users\yanci\Desktop\lab02\lab02\bin\Debug\netcoreapp3.1\lab02.exe
+C:\Users\yanci\Desktop\lab02\lab02\bin\Debug\netcoreapp3.1\lab02.deps.json
+C:\Users\yanci\Desktop\lab02\lab02\bin\Debug\netcoreapp3.1\lab02.runtimeconfig.json
+C:\Users\yanci\Desktop\lab02\lab02\bin\Debug\netcoreapp3.1\lab02.runtimeconfig.dev.json
+C:\Users\yanci\Desktop\lab02\lab02\bin\Debug\netcoreapp3.1\lab02.dll
+C:\Users\yanci\Desktop\lab02\lab02\bin\Debug\netcoreapp3.1\lab02.pdb
+C:\Users\yanci\Desktop\lab02\lab02\bin\Debug\netcoreapp3.1\TestSet.dll
+C:\Users\yanci\Desktop\lab02\lab02\obj\Debug\netcoreapp3.1\lab02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yanci\Desktop\lab02\lab02\obj\Debug\netcoreapp3.1\lab02.AssemblyInfoInputs.cache
+C:\Users\yanci\Desktop\lab02\lab02\obj\Debug\netcoreapp3.1\lab02.AssemblyInfo.cs
+C:\Users\yanci\Desktop\lab02\lab02\obj\Debug\netcoreapp3.1\lab02.csproj.CoreCompileInputs.cache
+C:\Users\yanci\Desktop\lab02\lab02\obj\Debug\netcoreapp3.1\lab02.csproj.CopyComplete
+C:\Users\yanci\Desktop\lab02\lab02\obj\Debug\netcoreapp3.1\lab02.dll
+C:\Users\yanci\Desktop\lab02\lab02\obj\Debug\netcoreapp3.1\lab02.pdb
+C:\Users\yanci\Desktop\lab02\lab02\obj\Debug\netcoreapp3.1\lab02.genruntimeconfig.cache
+C:\Users\yanci\Desktop\lab02\lab02\obj\Debug\netcoreapp3.1\lab02.csproj.AssemblyReference.cache
+D:\JAN_CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab02\lab02\obj\Debug\netcoreapp3.1\lab02.csproj.AssemblyReference.cache
+D:\JAN_CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab02\lab02\obj\Debug\netcoreapp3.1\lab02.GeneratedMSBuildEditorConfig.editorconfig
+D:\JAN_CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab02\lab02\obj\Debug\netcoreapp3.1\lab02.AssemblyInfoInputs.cache
+D:\JAN_CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab02\lab02\obj\Debug\netcoreapp3.1\lab02.AssemblyInfo.cs
+D:\JAN_CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab02\lab02\obj\Debug\netcoreapp3.1\lab02.csproj.CoreCompileInputs.cache
+D:\JAN_CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab02\lab02\obj\Debug\netcoreapp3.1\lab02.dll
+D:\JAN_CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab02\lab02\obj\Debug\netcoreapp3.1\lab02.pdb
+D:\JAN_CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab02\lab02\bin\Debug\netcoreapp3.1\lab02.exe
+D:\JAN_CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab02\lab02\bin\Debug\netcoreapp3.1\lab02.deps.json
+D:\JAN_CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab02\lab02\bin\Debug\netcoreapp3.1\lab02.runtimeconfig.json
+D:\JAN_CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab02\lab02\bin\Debug\netcoreapp3.1\lab02.runtimeconfig.dev.json
+D:\JAN_CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab02\lab02\bin\Debug\netcoreapp3.1\lab02.dll
+D:\JAN_CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab02\lab02\bin\Debug\netcoreapp3.1\lab02.pdb
+D:\JAN_CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab02\lab02\bin\Debug\netcoreapp3.1\TestSet.dll
+D:\JAN_CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab02\lab02\obj\Debug\netcoreapp3.1\lab02.csproj.CopyComplete
+D:\JAN_CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab02\lab02\obj\Debug\netcoreapp3.1\lab02.genruntimeconfig.cache
