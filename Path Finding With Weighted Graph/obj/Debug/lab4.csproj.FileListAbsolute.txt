@@ -1,0 +1,39 @@
+h:\Windows7\Desktop\lab4\bin\Debug\lab4.exe.config
+h:\Windows7\Desktop\lab4\bin\Debug\lab4.exe
+h:\Windows7\Desktop\lab4\bin\Debug\lab4.pdb
+h:\Windows7\Desktop\lab4\bin\Debug\Graphs.dll
+h:\Windows7\Desktop\lab4\bin\Debug\TestSet.dll
+h:\Windows7\Desktop\lab4\obj\Debug\lab4.csproj.AssemblyReference.cache
+h:\Windows7\Desktop\lab4\obj\Debug\lab4.csproj.CoreCompileInputs.cache
+h:\Windows7\Desktop\lab4\obj\Debug\lab4.csproj.CopyComplete
+h:\Windows7\Desktop\lab4\obj\Debug\lab4.exe
+h:\Windows7\Desktop\lab4\obj\Debug\lab4.pdb
+C:\Users\yanci\Desktop\lab4\bin\Debug\lab4.exe.config
+C:\Users\yanci\Desktop\lab4\bin\Debug\lab4.exe
+C:\Users\yanci\Desktop\lab4\bin\Debug\lab4.pdb
+C:\Users\yanci\Desktop\lab4\bin\Debug\TestSet.dll
+C:\Users\yanci\Desktop\lab4\obj\Debug\lab4.csproj.AssemblyReference.cache
+C:\Users\yanci\Desktop\lab4\obj\Debug\lab4.csproj.CoreCompileInputs.cache
+C:\Users\yanci\Desktop\lab4\obj\Debug\lab4.csproj.CopyComplete
+C:\Users\yanci\Desktop\lab4\obj\Debug\lab4.exe
+C:\Users\yanci\Desktop\lab4\obj\Debug\lab4.pdb
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab04\bin\Debug\lab4.exe.config
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab04\bin\Debug\lab4.exe
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab04\bin\Debug\lab4.pdb
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab04\bin\Debug\Graphs.dll
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab04\bin\Debug\TestSet.dll
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab04\obj\Debug\lab4.csproj.AssemblyReference.cache
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab04\obj\Debug\lab4.csproj.CoreCompileInputs.cache
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab04\obj\Debug\lab4.csproj.CopyComplete
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab04\obj\Debug\lab4.exe
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab04\obj\Debug\lab4.pdb
+D:\JAN_CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab04\bin\Debug\lab4.exe.config
+D:\JAN_CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab04\bin\Debug\lab4.exe
+D:\JAN_CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab04\bin\Debug\lab4.pdb
+D:\JAN_CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab04\bin\Debug\Graphs.dll
+D:\JAN_CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab04\bin\Debug\TestSet.dll
+D:\JAN_CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab04\obj\Debug\lab4.csproj.AssemblyReference.cache
+D:\JAN_CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab04\obj\Debug\lab4.csproj.CoreCompileInputs.cache
+D:\JAN_CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab04\obj\Debug\lab4.csproj.CopyComplete
+D:\JAN_CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab04\obj\Debug\lab4.exe
+D:\JAN_CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab04\obj\Debug\lab4.pdb
