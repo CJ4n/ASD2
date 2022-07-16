@@ -9,3 +9,6 @@ We are provided with tests by our teachers!!!
 
 TestSet.dll is required to run any of the projects and Graph.ddl for most of them.
 Just add is as a reference to the project.
+
+To use Graph.chm you'll probably need to unblock it.
+![image](https://user-images.githubusercontent.com/41972182/179352859-2adf39c5-35df-4b1b-bdd8-768bf4684be5.png)
