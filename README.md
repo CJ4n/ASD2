@@ -1,8 +1,6 @@
 # ASD2
 My projects form university courser Algorithms and Data Structures 2 
 
-Those are projects I did for this course. 
-
 DISCLAIMER!!!
 I did not prepare any of the tests for any of those projects!!!
 We are provided with tests by our teachers!!!
