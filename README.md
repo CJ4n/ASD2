@@ -12,4 +12,4 @@ Just add is as a reference to the project.
 
 To use Graph.chm you'll probably need to unblock it.
 
-![image](https://user-images.githubusercontent.com/41972182/179352859-2adf39c5-35df-4b1b-bdd8-768bf4684be5.png)
+![image](https://user-images.githubusercontent.com/41972182/179352881-a52abbbd-1c79-4e2b-86ae-3d5e9cd7e285.png)
