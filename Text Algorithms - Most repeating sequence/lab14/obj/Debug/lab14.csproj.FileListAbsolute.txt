@@ -1,0 +1,29 @@
+h:\Windows7\Desktop\lab14\lab14\bin\Debug\lab14.exe.config
+h:\Windows7\Desktop\lab14\lab14\bin\Debug\lab14.exe
+h:\Windows7\Desktop\lab14\lab14\bin\Debug\lab14.pdb
+h:\Windows7\Desktop\lab14\lab14\bin\Debug\TestSet.dll
+h:\Windows7\Desktop\lab14\lab14\obj\Debug\lab14.csproj.AssemblyReference.cache
+h:\Windows7\Desktop\lab14\lab14\obj\Debug\lab14.csproj.CoreCompileInputs.cache
+h:\Windows7\Desktop\lab14\lab14\obj\Debug\lab14.csproj.CopyComplete
+h:\Windows7\Desktop\lab14\lab14\obj\Debug\lab14.exe
+h:\Windows7\Desktop\lab14\lab14\obj\Debug\lab14.pdb
+D:\JAN_CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab14\lab14\bin\Debug\lab14.exe.config
+D:\JAN_CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab14\lab14\bin\Debug\lab14.exe
+D:\JAN_CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab14\lab14\bin\Debug\lab14.pdb
+D:\JAN_CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab14\lab14\bin\Debug\TestSet.dll
+D:\JAN_CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab14\lab14\obj\Debug\lab14.csproj.AssemblyReference.cache
+D:\JAN_CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab14\lab14\obj\Debug\lab14.csproj.SuggestedBindingRedirects.cache
+D:\JAN_CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab14\lab14\obj\Debug\lab14.csproj.CoreCompileInputs.cache
+D:\JAN_CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab14\lab14\obj\Debug\lab14.csproj.CopyComplete
+D:\JAN_CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab14\lab14\obj\Debug\lab14.exe
+D:\JAN_CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab14\lab14\obj\Debug\lab14.pdb
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab14\lab14\bin\Debug\lab14.exe.config
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab14\lab14\bin\Debug\lab14.exe
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab14\lab14\bin\Debug\lab14.pdb
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab14\lab14\bin\Debug\TestSet.dll
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab14\lab14\obj\Debug\lab14.csproj.AssemblyReference.cache
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab14\lab14\obj\Debug\lab14.csproj.SuggestedBindingRedirects.cache
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab14\lab14\obj\Debug\lab14.csproj.CoreCompileInputs.cache
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab14\lab14\obj\Debug\lab14.csproj.CopyComplete
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab14\lab14\obj\Debug\lab14.exe
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab14\lab14\obj\Debug\lab14.pdb

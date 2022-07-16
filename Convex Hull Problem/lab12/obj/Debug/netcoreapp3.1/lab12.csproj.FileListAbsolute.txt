@@ -1,0 +1,51 @@
+h:\Windows7\Desktop\lab12\lab12\obj\Debug\netcoreapp3.1\lab12.csproj.AssemblyReference.cache
+h:\Windows7\Desktop\lab12\lab12\obj\Debug\netcoreapp3.1\lab12.GeneratedMSBuildEditorConfig.editorconfig
+h:\Windows7\Desktop\lab12\lab12\obj\Debug\netcoreapp3.1\lab12.AssemblyInfoInputs.cache
+h:\Windows7\Desktop\lab12\lab12\obj\Debug\netcoreapp3.1\lab12.AssemblyInfo.cs
+h:\Windows7\Desktop\lab12\lab12\obj\Debug\netcoreapp3.1\lab12.csproj.CoreCompileInputs.cache
+h:\Windows7\Desktop\lab12\lab12\bin\Debug\netcoreapp3.1\lab12.exe
+h:\Windows7\Desktop\lab12\lab12\bin\Debug\netcoreapp3.1\lab12.deps.json
+h:\Windows7\Desktop\lab12\lab12\bin\Debug\netcoreapp3.1\lab12.runtimeconfig.json
+h:\Windows7\Desktop\lab12\lab12\bin\Debug\netcoreapp3.1\lab12.runtimeconfig.dev.json
+h:\Windows7\Desktop\lab12\lab12\bin\Debug\netcoreapp3.1\lab12.dll
+h:\Windows7\Desktop\lab12\lab12\bin\Debug\netcoreapp3.1\lab12.pdb
+h:\Windows7\Desktop\lab12\lab12\bin\Debug\netcoreapp3.1\Graphs.dll
+h:\Windows7\Desktop\lab12\lab12\bin\Debug\netcoreapp3.1\TestSet.dll
+h:\Windows7\Desktop\lab12\lab12\obj\Debug\netcoreapp3.1\lab12.csproj.CopyComplete
+h:\Windows7\Desktop\lab12\lab12\obj\Debug\netcoreapp3.1\lab12.dll
+h:\Windows7\Desktop\lab12\lab12\obj\Debug\netcoreapp3.1\lab12.pdb
+h:\Windows7\Desktop\lab12\lab12\obj\Debug\netcoreapp3.1\lab12.genruntimeconfig.cache
+C:\Users\yanci\Desktop\lab12\lab12\obj\Debug\netcoreapp3.1\lab12.csproj.AssemblyReference.cache
+C:\Users\yanci\Desktop\lab12\lab12\obj\Debug\netcoreapp3.1\lab12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yanci\Desktop\lab12\lab12\obj\Debug\netcoreapp3.1\lab12.AssemblyInfoInputs.cache
+C:\Users\yanci\Desktop\lab12\lab12\obj\Debug\netcoreapp3.1\lab12.AssemblyInfo.cs
+C:\Users\yanci\Desktop\lab12\lab12\obj\Debug\netcoreapp3.1\lab12.csproj.CoreCompileInputs.cache
+C:\Users\yanci\Desktop\lab12\lab12\obj\Debug\netcoreapp3.1\lab12.dll
+C:\Users\yanci\Desktop\lab12\lab12\obj\Debug\netcoreapp3.1\lab12.pdb
+C:\Users\yanci\Desktop\lab12\lab12\bin\Debug\netcoreapp3.1\lab12.exe
+C:\Users\yanci\Desktop\lab12\lab12\bin\Debug\netcoreapp3.1\lab12.deps.json
+C:\Users\yanci\Desktop\lab12\lab12\bin\Debug\netcoreapp3.1\lab12.runtimeconfig.json
+C:\Users\yanci\Desktop\lab12\lab12\bin\Debug\netcoreapp3.1\lab12.runtimeconfig.dev.json
+C:\Users\yanci\Desktop\lab12\lab12\bin\Debug\netcoreapp3.1\lab12.dll
+C:\Users\yanci\Desktop\lab12\lab12\bin\Debug\netcoreapp3.1\lab12.pdb
+C:\Users\yanci\Desktop\lab12\lab12\bin\Debug\netcoreapp3.1\Graphs.dll
+C:\Users\yanci\Desktop\lab12\lab12\bin\Debug\netcoreapp3.1\TestSet.dll
+C:\Users\yanci\Desktop\lab12\lab12\obj\Debug\netcoreapp3.1\lab12.csproj.CopyComplete
+C:\Users\yanci\Desktop\lab12\lab12\obj\Debug\netcoreapp3.1\lab12.genruntimeconfig.cache
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab12\lab12\bin\Debug\netcoreapp3.1\lab12.exe
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab12\lab12\bin\Debug\netcoreapp3.1\lab12.deps.json
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab12\lab12\bin\Debug\netcoreapp3.1\lab12.runtimeconfig.json
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab12\lab12\bin\Debug\netcoreapp3.1\lab12.runtimeconfig.dev.json
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab12\lab12\bin\Debug\netcoreapp3.1\lab12.dll
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab12\lab12\bin\Debug\netcoreapp3.1\lab12.pdb
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab12\lab12\bin\Debug\netcoreapp3.1\Graphs.dll
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab12\lab12\bin\Debug\netcoreapp3.1\TestSet.dll
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab12\lab12\obj\Debug\netcoreapp3.1\lab12.csproj.AssemblyReference.cache
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab12\lab12\obj\Debug\netcoreapp3.1\lab12.GeneratedMSBuildEditorConfig.editorconfig
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab12\lab12\obj\Debug\netcoreapp3.1\lab12.AssemblyInfoInputs.cache
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab12\lab12\obj\Debug\netcoreapp3.1\lab12.AssemblyInfo.cs
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab12\lab12\obj\Debug\netcoreapp3.1\lab12.csproj.CoreCompileInputs.cache
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab12\lab12\obj\Debug\netcoreapp3.1\lab12.csproj.CopyComplete
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab12\lab12\obj\Debug\netcoreapp3.1\lab12.dll
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab12\lab12\obj\Debug\netcoreapp3.1\lab12.pdb
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab12\lab12\obj\Debug\netcoreapp3.1\lab12.genruntimeconfig.cache

@@ -1,0 +1,19 @@
+h:\Windows7\Desktop\cats\cats\bin\Debug\cats.exe.config
+h:\Windows7\Desktop\cats\cats\bin\Debug\cats.exe
+h:\Windows7\Desktop\cats\cats\bin\Debug\cats.pdb
+h:\Windows7\Desktop\cats\cats\bin\Debug\Graphs.dll
+h:\Windows7\Desktop\cats\cats\bin\Debug\TestSet.dll
+h:\Windows7\Desktop\cats\cats\obj\Debug\cats.csproj.AssemblyReference.cache
+h:\Windows7\Desktop\cats\cats\obj\Debug\cats.csproj.CoreCompileInputs.cache
+h:\Windows7\Desktop\cats\cats\obj\Debug\cats.csproj.CopyComplete
+h:\Windows7\Desktop\cats\cats\obj\Debug\cats.exe
+h:\Windows7\Desktop\cats\cats\obj\Debug\cats.pdb
+C:\Users\Janek C\Desktop\cats\cats\bin\Debug\cats.exe.config
+C:\Users\Janek C\Desktop\cats\cats\bin\Debug\cats.exe
+C:\Users\Janek C\Desktop\cats\cats\bin\Debug\cats.pdb
+C:\Users\Janek C\Desktop\cats\cats\bin\Debug\TestSet.dll
+C:\Users\Janek C\Desktop\cats\cats\obj\Debug\cats.csproj.AssemblyReference.cache
+C:\Users\Janek C\Desktop\cats\cats\obj\Debug\cats.csproj.CoreCompileInputs.cache
+C:\Users\Janek C\Desktop\cats\cats\obj\Debug\cats.csproj.CopyComplete
+C:\Users\Janek C\Desktop\cats\cats\obj\Debug\cats.exe
+C:\Users\Janek C\Desktop\cats\cats\obj\Debug\cats.pdb

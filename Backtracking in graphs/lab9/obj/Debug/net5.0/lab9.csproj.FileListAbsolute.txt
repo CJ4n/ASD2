@@ -1,0 +1,57 @@
+h:\Windows7\Desktop\lab9\lab9\bin\Debug\net5.0\lab9.exe
+h:\Windows7\Desktop\lab9\lab9\bin\Debug\net5.0\lab9.deps.json
+h:\Windows7\Desktop\lab9\lab9\bin\Debug\net5.0\lab9.runtimeconfig.json
+h:\Windows7\Desktop\lab9\lab9\bin\Debug\net5.0\lab9.runtimeconfig.dev.json
+h:\Windows7\Desktop\lab9\lab9\bin\Debug\net5.0\lab9.dll
+h:\Windows7\Desktop\lab9\lab9\bin\Debug\net5.0\ref\lab9.dll
+h:\Windows7\Desktop\lab9\lab9\bin\Debug\net5.0\lab9.pdb
+h:\Windows7\Desktop\lab9\lab9\bin\Debug\net5.0\Graphs.dll
+h:\Windows7\Desktop\lab9\lab9\bin\Debug\net5.0\TestSet.dll
+h:\Windows7\Desktop\lab9\lab9\obj\Debug\net5.0\lab9.csproj.AssemblyReference.cache
+h:\Windows7\Desktop\lab9\lab9\obj\Debug\net5.0\lab9.GeneratedMSBuildEditorConfig.editorconfig
+h:\Windows7\Desktop\lab9\lab9\obj\Debug\net5.0\lab9.AssemblyInfoInputs.cache
+h:\Windows7\Desktop\lab9\lab9\obj\Debug\net5.0\lab9.AssemblyInfo.cs
+h:\Windows7\Desktop\lab9\lab9\obj\Debug\net5.0\lab9.csproj.CoreCompileInputs.cache
+h:\Windows7\Desktop\lab9\lab9\obj\Debug\net5.0\lab9.csproj.CopyComplete
+h:\Windows7\Desktop\lab9\lab9\obj\Debug\net5.0\lab9.dll
+h:\Windows7\Desktop\lab9\lab9\obj\Debug\net5.0\ref\lab9.dll
+h:\Windows7\Desktop\lab9\lab9\obj\Debug\net5.0\lab9.pdb
+h:\Windows7\Desktop\lab9\lab9\obj\Debug\net5.0\lab9.genruntimeconfig.cache
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab9\lab9\bin\Debug\net5.0\lab9.exe
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab9\lab9\bin\Debug\net5.0\lab9.deps.json
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab9\lab9\bin\Debug\net5.0\lab9.runtimeconfig.json
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab9\lab9\bin\Debug\net5.0\lab9.runtimeconfig.dev.json
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab9\lab9\bin\Debug\net5.0\lab9.dll
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab9\lab9\bin\Debug\net5.0\ref\lab9.dll
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab9\lab9\bin\Debug\net5.0\lab9.pdb
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab9\lab9\bin\Debug\net5.0\Graphs.dll
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab9\lab9\bin\Debug\net5.0\TestSet.dll
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab9\lab9\obj\Debug\net5.0\lab9.csproj.AssemblyReference.cache
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab9\lab9\obj\Debug\net5.0\lab9.GeneratedMSBuildEditorConfig.editorconfig
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab9\lab9\obj\Debug\net5.0\lab9.AssemblyInfoInputs.cache
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab9\lab9\obj\Debug\net5.0\lab9.AssemblyInfo.cs
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab9\lab9\obj\Debug\net5.0\lab9.csproj.CoreCompileInputs.cache
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab9\lab9\obj\Debug\net5.0\lab9.csproj.CopyComplete
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab9\lab9\obj\Debug\net5.0\lab9.dll
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab9\lab9\obj\Debug\net5.0\ref\lab9.dll
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab9\lab9\obj\Debug\net5.0\lab9.pdb
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_4_2022_LATO\algorytmy i struktury danych 2\laby\lab9\lab9\obj\Debug\net5.0\lab9.genruntimeconfig.cache
+C:\Users\Janek C\Desktop\lab9\lab9\bin\Debug\net5.0\lab9.exe
+C:\Users\Janek C\Desktop\lab9\lab9\bin\Debug\net5.0\lab9.deps.json
+C:\Users\Janek C\Desktop\lab9\lab9\bin\Debug\net5.0\lab9.runtimeconfig.json
+C:\Users\Janek C\Desktop\lab9\lab9\bin\Debug\net5.0\lab9.runtimeconfig.dev.json
+C:\Users\Janek C\Desktop\lab9\lab9\bin\Debug\net5.0\lab9.dll
+C:\Users\Janek C\Desktop\lab9\lab9\bin\Debug\net5.0\ref\lab9.dll
+C:\Users\Janek C\Desktop\lab9\lab9\bin\Debug\net5.0\lab9.pdb
+C:\Users\Janek C\Desktop\lab9\lab9\bin\Debug\net5.0\Graphs.dll
+C:\Users\Janek C\Desktop\lab9\lab9\bin\Debug\net5.0\TestSet.dll
+C:\Users\Janek C\Desktop\lab9\lab9\obj\Debug\net5.0\lab9.csproj.AssemblyReference.cache
+C:\Users\Janek C\Desktop\lab9\lab9\obj\Debug\net5.0\lab9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janek C\Desktop\lab9\lab9\obj\Debug\net5.0\lab9.AssemblyInfoInputs.cache
+C:\Users\Janek C\Desktop\lab9\lab9\obj\Debug\net5.0\lab9.AssemblyInfo.cs
+C:\Users\Janek C\Desktop\lab9\lab9\obj\Debug\net5.0\lab9.csproj.CoreCompileInputs.cache
+C:\Users\Janek C\Desktop\lab9\lab9\obj\Debug\net5.0\lab9.csproj.CopyComplete
+C:\Users\Janek C\Desktop\lab9\lab9\obj\Debug\net5.0\lab9.dll
+C:\Users\Janek C\Desktop\lab9\lab9\obj\Debug\net5.0\ref\lab9.dll
+C:\Users\Janek C\Desktop\lab9\lab9\obj\Debug\net5.0\lab9.pdb
+C:\Users\Janek C\Desktop\lab9\lab9\obj\Debug\net5.0\lab9.genruntimeconfig.cache
